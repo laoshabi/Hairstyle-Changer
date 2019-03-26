@@ -1,0 +1,35 @@
+<resources>
+    <string name="no_images">no found the image</string>
+    <string name="images">%d images</string>
+    <string name="save">save</string>
+    <string name="apply">apply</string>
+
+    <string name="stickers">Hairstyles</string>
+
+
+
+
+    <string name="saving_image">save...</string>
+    <string name="input_hint">input text ...</string>
+
+    <string name="no_choose">please choose a image for edit</string>
+    <string name="auto_newline">AutoNewline</string>
+    <string name="save_error">Save error!</string>
+    <string name="handing">loading...</string>
+
+    >
+
+    <string name="more">more</string>
+    <string name="exit_without_save">The edited image is not saved. Do you want to exit? </string>
+    <string name="confirm">confirm</string>
+    <string name="cancel">cancel</string>
+
+    <string name="app_name">HairstyleChanger</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="choose_image">choose a image for edit</string>
+    <string name="edit_image">edit image</string>
+    <string name="save_path">save path : %s</string>
+    <string name="take_photo">take_photo</string>
+
+</resources>
