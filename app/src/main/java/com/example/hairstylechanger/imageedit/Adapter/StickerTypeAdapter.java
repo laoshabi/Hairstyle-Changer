@@ -69,11 +69,7 @@ public class StickerTypeAdapter extends RecyclerView.Adapter<ViewHolder> {
         imageHoler.text.setOnClickListener(mImageClick);
     }
 
-    /**
-     * 选择贴图类型
-     *
-     * @author panyi
-     */
+
     private final class ImageClick implements OnClickListener {
         @Override
         public void onClick(View v) {

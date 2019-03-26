@@ -101,8 +101,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         imageHeight = metrics.heightPixels;
 
         imgView = (ImageView) findViewById(R.id.img);
-        openAblum = findViewById(R.id.select_ablum);
-        editImage = findViewById(R.id.edit_image);
+        openAblum = findViewById(R.id.select_photo);
+        editImage = findViewById(R.id.edit_photo);
         openAblum.setOnClickListener(this);
         editImage.setOnClickListener(this);
 
@@ -116,10 +116,10 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         if (i == R.id.take_photo) {
             takePhotoClick();
 
-        } else if (i == R.id.edit_image) {
+        } else if (i == R.id.edit_photo) {
             editImageClick();
 
-        } else if (i == R.id.select_ablum) {
+        } else if (i == R.id.select_photo) {
             selectFromAblum();
 
         }
